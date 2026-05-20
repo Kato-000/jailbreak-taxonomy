@@ -179,7 +179,7 @@ jailbreak-taxonomy/
 
 本研究では以下のデータソースを使用しています：
 
-- **Classes 2–4（公開jailbreakプロンプト）**: [TrustAIRLab/in-the-wild-jailbreak-prompts](https://github.com/TrustAIRLab/in-the-wild-jailbreak-prompts) — 1,694件の実世界プロンプトを分類・評価
+- **Classes 2–4（公開jailbreakプロンプト）**: [TrustAIRLab/in-the-wild-jailbreak-prompts](https://huggingface.co/datasets/TrustAIRLab/in-the-wild-jailbreak-prompts) — 1,694件の実世界プロンプトを分類・評価
 - **Class 5（マルチターン）**: [AIM-Intelligence/Automated-Multi-Turn-Jailbreaks](https://github.com/AIM-Intelligence/Automated-Multi-Turn-Jailbreaks) — 最大5ターン×10試行
 - **Class 6（GCG/PAIR）**: 最大100ターン×10試行で生成
 
